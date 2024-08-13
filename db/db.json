@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Test Title",
+    "text": "Test text"
+  },
+  {
+    "id": null,
+    "title": "Hello World",
+    "text": "First note written :)"
+  },
+  {
+    "id": 1,
+    "title": "Meeting Notes",
+    "text": "Discuss project roadmap and milestones."
+  }
+]
